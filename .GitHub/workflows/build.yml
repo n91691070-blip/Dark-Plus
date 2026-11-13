@@ -1,4 +1,4 @@
-name: Build DarkPlus Jar
+name: Build DarkPlus Jar 
 
 on:
   push:
